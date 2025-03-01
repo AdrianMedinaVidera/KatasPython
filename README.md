@@ -1,6 +1,6 @@
 # Proyecto Lógica: Katas de Python
 
-Este proyecto consiste en la implementación de una serie de ejercicios (katas) en Python, que cubren diversos temas como manejo de tipos de datos, estructuras de datos, condicionales, iteraciones, funciones, clases, y buenas prácticas de programación.
+Este proyecto consiste en la implementación de una serie de ejercicios (katas) en Python, que cubren diversos temas como manejo de tipos de datos, estructuras de datos, condicionales, iteraciones, funciones y clases.
 
 ## Descripción del Proyecto
 
